@@ -1,0 +1,9 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!74 &1
+AnimationClip:
+  m_EditorData:
+    m_Name: Attack
+    m_SampleRate: 12
+    m_Curves:
+      # Aquí se agregan los frames del atlas
